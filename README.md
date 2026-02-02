@@ -1,11 +1,8 @@
 Bender: Blackjack - Agentic AI Red-Teaming                                                                                                                                           
-                                                                                                                                                                                      
- Bender is the overarching AI assurance platform.                                                                                                                             
- Blackjack is the automated red-teaming tool.                                                                                                                                         
-                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                   
  Overview                                                                                                                                                                             
                                                                                                                                                                                       
- Build an automated red-teaming system that tests LLM tool-use agents against OWASP Top 10 vulnerabilities in sandboxed Docker environments.                                          
+ Build an automated red-teaming system that tests LLM tool-use agents against OWASP Top 10 vulnerabilities in sandboxed Docker environments. Blend static analysis techniques with LLM magic to build a trust score.                                          
                                                                                                                                                                                       
  Scope                                                                                                                                                                                
                                                                                                                                                                                       

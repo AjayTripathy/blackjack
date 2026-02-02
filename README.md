@@ -1,6 +1,6 @@
 Bender: Blackjack - Agentic AI Red-Teaming                                                                                                                                           
                                                                                                                                                                                       
- Bender is the overarching agentic AI insurance platform.                                                                                                                             
+ Bender is the overarching AI assurance platform.                                                                                                                             
  Blackjack is the automated red-teaming tool.                                                                                                                                         
                                                                                                                                                                                       
  Overview                                                                                                                                                                             
